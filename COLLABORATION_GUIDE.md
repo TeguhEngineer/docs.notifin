@@ -5,11 +5,7 @@
 - dev → integration branch
 - nama-branch-tim/... → branch kerja tim
 
-## 💻 Buat branch baru
-- git checkout -b (branch kamu)
-- git push -u origin (branch kamu)
-
-## 💻 SETUP PROJECT
+## 💻 SETUP PROJECT & Buat branch baru
 - git clone https://github.com/TeguhEngineer/docs.notifin.git
 - cd (nama-project)
 - git fetch --all
