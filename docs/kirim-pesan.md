@@ -1,6 +1,6 @@
 # Kirim Pesan
 
-Panduan ini menjelaskan langkah-langkah untuk menggunakan fitur **Kirim Pesan** di aplikasi **Notifin**.
+Panduan ini menjelaskan langkah-langkah untuk menggunakan menu **Kirim Pesan** di aplikasi **Notifin**.
 
 ---
 
