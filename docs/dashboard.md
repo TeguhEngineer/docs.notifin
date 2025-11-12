@@ -42,6 +42,6 @@ Pada bagian kiri tampilan aplikasi, terdapat menu utama:
 
 ---
 
-✅ **Selesai!** Tampilan **Dashboard** berhasil dijelaskan dan siap digunakan oleh Admin untuk memantau seluruh aktivitas di aplikasi **Notifin** 🎉
+✅ **Selesai!** Tampilan **Dashboard** berhasil dijelaskan dan siap digunakan oleh User untuk memantau seluruh aktivitas di aplikasi **Notifin** 🎉
 
 
